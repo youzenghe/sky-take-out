@@ -63,3 +63,7 @@ sky:
     weChatPayCertFilePath: ${sky.wechat.weChatPayCertFilePath}
     notifyUrl: ${sky.wechat.notifyUrl}
     refundNotifyUrl: ${sky.wechat.refundNotifyUrl}
+  shop:
+    address: 河南省南阳市方城县柳河镇
+  baidu:
+    ak: SMs8nWssyBjxewpJm9vtETYUfdiJ5mpv
