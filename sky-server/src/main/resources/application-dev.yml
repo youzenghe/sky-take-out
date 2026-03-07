@@ -19,3 +19,10 @@ sky:
   wechat:
     appid: wx1831d320f297a2c8
     secret: 99b037bdbc5f677bc91defa99a87c318
+    mchid: 1505200001
+    mchSeriaNo: 1505200001
+    privateKeyFilePath: 9E9E0E0E0E0E0E0E0E0E0E0E0E0E0E0E
+    apiV3Key: 9E9E0E0E0E0E0E0E0E0E0E0E0E0E0E0E
+    weChatPayCertFilePath: 9E9E0E0E0E0E0E0E0E0E0E0E0E0E0E0E.pem
+    notify_url: http://yzh1019.oss-cn-beijing.aliyuncs.com/
+    refundNotifyUrl: http://yzh1019.oss-cn-beijing.aliyuncs.com/
